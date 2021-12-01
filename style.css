@@ -139,9 +139,11 @@ button{
     width: 700px;
 }
 
-.s3-author{
+.section3 p{
+    width: 700px;
     font-weight: bold;
     font-size: 18px;
+    text-align: end;
 }
 
 /*-----Section4-----*/
